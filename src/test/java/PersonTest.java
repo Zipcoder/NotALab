@@ -27,7 +27,7 @@ public class PersonTest {
 
     @Test
     public void getName() {
-        assertEquals("Henry", this.person.getName());
+        fail();
     }
 
     @Test
