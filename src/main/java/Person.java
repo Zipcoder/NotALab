@@ -17,18 +17,18 @@ public class Person {
     }
 
     public int getAge() {
-        return age;
+        return 0;
     }
 
     public void setAge(int age) {
-        this.age = age;
+
     }
 
     public String getName() {
-        return name;
+        return "";
     }
 
     public void setName(String name) {
-        this.name=name;
+
     }
 }
